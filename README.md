@@ -1,3 +1,3 @@
 # PCHCHO
-2
+WIFI OFF
 
